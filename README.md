@@ -4,7 +4,7 @@ A collection of 25 beginner-friendly JavaScript projects to enhance your coding 
 
 ## **Project List**
 
-1. ✅ [To-Do List App](./1-Beginner-Projects/1-ToDo-List)
+1. ✅ [To-Do List App](./1-Beginner-Projects/01-ToDo-List)
 2. ✅ [Simple Calculator](./calculator)
 3. ✅ [Random Quote Generator](./quote-generator)
 4. ✅ [Image Slider](./image-slider)
