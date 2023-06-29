@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: rgb(173, 154, 255);
+}
+
+.mainDiv {
+    background-color: white;
+    height: auto;
+    width: 50%;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 30vh;
+    min-width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.quotesymbol {
+    margin: 0px 10px;
+    color: rgba(69, 69, 69, 0.321);
+}
+
+.quote :nth-child(3) {
+    display: flex;
+    align-self: last baseline;
+
+}
+
+.quote {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 300;
+    display: flex;
+}
+
+.empty {
+    display: flex;
+    margin: 0 auto;
+    width: 74px;
+    height: 2px;
+    border: 2px solid rgb(100, 65, 255);
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons button {
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    align-items: center;
+}
+
+.buttons :nth-child(1) {
+    background-color: rgb(119, 88, 255);
+    color: white;
+}
+
+.buttons :nth-child(2) {
+    background-color: white;
+    border: 1px solid rgb(100, 65, 255);
+
+}
+
+.buttons :nth-child(1):hover {
+    background-color: rgba(100, 65, 255, 0.7);
+    transition: all 0.2s;
+}
+
+.buttons :nth-child(2):hover {
+    background-color: rgba(127, 98, 255, 0.2);
+    transition: all 0.3s;
+    border: 1px solid rgba(127, 98, 255, 0.826);
+}
+
+#twittericon {
+    background-color: transparent;
+    color: rgb(119, 88, 255);
+    margin-right: 5px;
+    font-size: 20px;
+}
