@@ -11,10 +11,10 @@ A collection of 20 beginner-friendly JavaScript projects to enhance your coding 
 5. ✅ [Weather App](./weather-app)
 6. ❌ [Countdown Timer](./countdown-timer)
 7. ❌ [BMI Calculator](./bmi-calculator)
-8. ❌ [Rock, Paper, Scissors Game](./rock-paper-scissors)
+8. ❌ [parallax effect](./parallax-effect)
 9. ❌ [Password Generator](./password-generator)
-10. ❌ [Quiz App](./quiz-app)
-11. ❌ [Tic-Tac-Toe Game](./tic-tac-toe)
+10. ❌ [Portfolio Design](./portfolio)
+11. ❌ Nil
 12. ❌ [Currency Converter](./currency-converter)
 13. ❌ [Tip Calculator](./tip-calculator)
 14. ❌ [Digital Clock](./digital-clock)
