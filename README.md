@@ -13,7 +13,7 @@ A collection of 20 beginner-friendly JavaScript projects to enhance your coding 
 7. ❌ [BMI Calculator](./bmi-calculator)
 8. ❌ [parallax effect](./parallax-effect)
 9. ❌ [Password Generator](./password-generator)
-10. ❌ [Portfolio Design](./portfolio)
+10. ✅ [Portfolio Design](./1-Beginner-Projects/portfolio)
 11. ❌ Nil
 12. ❌ [Currency Converter](./currency-converter)
 13. ❌ [Tip Calculator](./tip-calculator)
