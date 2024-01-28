@@ -23,7 +23,7 @@ A collection of 20 beginner-friendly JavaScript projects to enhance your coding 
 17. ❌ [Random Number Generator](./random-number-generator)
 18. ❌ [Recipe Finder](./recipe-finder)
 19. ❌ [Photo Gallery](./photo-gallery)
-20. ✅ [Contact Form](./contact-form)
+20. ✅ [Contact Form](./1-Beginner-Projects/contact-form/formdesign)
 
 ## **Getting Started**
 
